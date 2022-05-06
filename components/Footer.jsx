@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="">
+    <footer>
       <p>Lucas S. Dias 2022</p>
     </footer>
   );
